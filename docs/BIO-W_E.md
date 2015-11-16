@@ -3,3 +3,4 @@ My name is EW.
 - My favorite food is bbq.
 - My hobby is cooking.
 - My favorite color is blue.
+- My current city is St. Louis, MO.
